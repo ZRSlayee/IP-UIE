@@ -1,0 +1,5 @@
+model_checkpoint_path: "RetinexNet-Relight-8480"
+all_model_checkpoint_paths: "RetinexNet-Relight-2120"
+all_model_checkpoint_paths: "RetinexNet-Relight-4240"
+all_model_checkpoint_paths: "RetinexNet-Relight-6360"
+all_model_checkpoint_paths: "RetinexNet-Relight-8480"
