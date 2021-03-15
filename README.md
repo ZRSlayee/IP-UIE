@@ -1,6 +1,6 @@
 # IP-UIE
 This is a Tensorflow implement of IP-UIE.
-The original structure of our code is based on Retinex-Net(https://github.com/weichen582/RetinexNet).
+The original structure of our code is based on [Retinex-Net](https://github.com/weichen582/RetinexNet).
 
 ### Requirements ###
 1. Tensorflow >= 1.12.0
